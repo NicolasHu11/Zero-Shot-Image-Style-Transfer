@@ -1,5 +1,6 @@
 # Zero-Shot-Image-Style-Transfer
-Author: Nicolas Hu, Yihang Xin
+- Author: Nicolas Hu, Yihang Xin
+- Fall 2019
 
 ## Oerview 
 ### Perceptual Loss 
@@ -41,5 +42,6 @@ The results of the proposed method show similar training process and perceptual 
 
 ## Results 
 - [Presentation Link](https://docs.google.com/presentation/d/1jQWtSjd6Y1H9FeuHQEuKOgEE4PBP7_oRh4H8uOTbV-g/edit?usp=sharing)
+- [Report Link](https://drive.google.com/file/d/110g3lLkoAgDwgznI8t-FmcmHEgl0F0sW/view?usp=sharing)
 
 ![Comparison of all three models](./images/results_comparison.png)
